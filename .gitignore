@@ -1,0 +1,28 @@
+# Binarios
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+test-pulpoline-api
+
+# Archivos de prueba
+*.test
+*.out
+
+# Dependencias
+vendor/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Archivos temporales
+tmp/
+temp/
